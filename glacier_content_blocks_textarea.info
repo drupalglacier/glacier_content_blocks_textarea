@@ -8,6 +8,7 @@ dependencies[] = glacier_content_blocks
 dependencies[] = glacier_system
 dependencies[] = options
 dependencies[] = paragraphs
+dependencies[] = smart_trim
 dependencies[] = strongarm
 dependencies[] = text
 features[ctools][] = strongarm:strongarm:1
