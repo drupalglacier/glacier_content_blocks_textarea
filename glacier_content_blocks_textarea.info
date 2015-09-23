@@ -1,4 +1,4 @@
-name = Content Block: Textarea
+name = Content block: Textarea
 core = 7.x
 package = glacier
 version = 7.x-1.0
