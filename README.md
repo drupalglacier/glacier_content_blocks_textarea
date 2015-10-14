@@ -2,7 +2,7 @@
 Very basic content block with a simple textarea field.
 
 ## About
-Github: https://github.com/maoberlehnerdrupal/glacier_content_blocks_textarea
+Github: https://github.com/drupalglacier/glacier_content_blocks_textarea
 
 ### Author
 Markus Oberlehner  
